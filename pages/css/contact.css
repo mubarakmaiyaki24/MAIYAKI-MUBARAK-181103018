@@ -1,0 +1,197 @@
+.center{
+	text-align: center;
+background-image: url("../htmlimages/tech.jpg");
+	background-size: cover;
+	background-position:center;
+	margin: auto;
+	font-size: 18px;
+	margin-top: 0px;
+	height: 600px;
+}
+.leftside{
+	display: inline-flex;
+}
+.cart{
+	display: inline-flex;
+	margin-left: 20px;
+}
+.cart a{
+	color: white;
+}
+.project{
+	margin-right: 20px;
+}
+.home{
+	margin-right: 20px;
+	text-align: center;
+}
+.shop{
+	margin-right: 20px;
+}
+.leftside a {
+	color: white;
+	text-decoration:none;
+	transition: color 0.5s;
+	
+} 
+.home:hover {
+	border-bottom: 2px solid white;
+		
+}
+
+.project:hover{
+	border-bottom: 2px solid white;
+	
+}
+.shop:hover{
+	border-bottom: 2px solid white;
+	
+
+}
+.contactus:hover{
+	border-bottom: 2px solid white;
+}
+.shop a:hover{
+	color:  #339bc2;
+
+}
+.home a:hover{
+	color: #339bc2;
+}
+.project a:hover{
+	color:  #339bc2;
+
+}
+.contactus a:hover{
+	color:  #339bc2;
+}
+.cart a:hover{
+	color:  #339bc2;
+}
+.waiting{
+	color: white;
+	font-size: 30px;
+	padding: 80px;
+}
+.best{
+	color: white;
+}
+.ready{
+	color: white;
+}
+.lastone{
+	background-image: url("../htmlimages/bluebackground.jpeg");
+	background-position: center;
+	background-size: cover;
+	height: 700px;
+	padding: 90px;
+}
+.picture{
+	text-align: center;
+
+}
+.ready{
+	font-size: 30px;
+}
+.business{
+	color: white;
+	font-size: 10px;
+	letter-spacing: 2px;
+}
+.middle{
+	display: inline-flex;
+	padding: 60px;
+}
+.house{
+	font-size: 70px;
+	border-width: 5px;
+	background-color: #ffffff;
+	box-sizing: content-box;
+	height: 90px;
+	width: 90px;
+	border-radius: 70%;
+	color:  #339bc2;
+	}
+.plane{
+	font-size: 64px;
+	margin-left: 190px;
+	font-size: 70px;
+	background-color: #ffffff;
+	box-sizing: content-box;
+	height: 98px;
+	width: 98px;
+	border-radius: 70%;
+	border-width: 5px;
+
+	border-width: 5px;
+}
+.phone{
+	font-size: 64px;
+	margin-right: 180px;
+	border-width: 5px;
+	background-color: #ffffff;
+	box-sizing: content-box;
+	height: 90px;
+	width: 90px;
+	border-radius: 70%;
+	color:  #339bc2;
+	border-width: 5px;
+}
+.plane a{
+	color:  #339bc2;
+}
+.house a{
+	color:  #339bc2;
+}
+.phone a{
+	color:  #339bc2;
+
+}
+.phone a:hover{
+	color: blue;
+}
+.plane a:hover{
+	color: blue;
+
+}
+.house a:hover{
+	color: blue;
+}
+.foot{
+	background-color: #333333;
+	height: 100px;
+	color: white;
+	font-size: 10px;
+	margin: 0;
+	font-family: 'Agency FB';
+}
+.last{
+	padding: 20px;
+	font-size: 18px;
+	display: inline-flex;
+}
+.copyright{
+	color: white;
+}
+.twitter a{
+	color: white;
+}
+.facebook a{
+	color: white;
+}
+.dude{
+	text-align: right;
+}
+.facebook{
+	margin-right: 20px;
+	font-size: 30px;
+}
+.twitter{
+	font-size: 30px;
+}
+.facebook a:hover{
+	color:  #339bc2;
+}
+.twitter a:hover{
+	color:  #339bc2;
+}

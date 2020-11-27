@@ -1,0 +1,151 @@
+.center{
+	text-align: center;
+background-color: grey;
+	background-size: cover;
+	background-position:center;
+	margin: auto;
+	font-size: 18px;
+	margin-top: 0px;
+}
+.leftside{
+	display: inline-flex;
+}
+.cart{
+	display: inline-flex;
+	margin-left: 20px;
+}
+.cart a{
+	color: white;
+}
+.project{
+	margin-right: 20px;
+}
+.home{
+	margin-right: 20px;
+	text-align: center;
+}
+.shop{
+	margin-right: 20px;
+}
+.leftside a {
+	color: white;
+	text-decoration:none;
+	transition: color 0.5s;
+	
+} 
+.home:hover {
+	border-bottom: 2px solid white;
+		
+}
+
+.project:hover{
+	border-bottom: 2px solid white;
+	
+}
+.shop:hover{
+	border-bottom: 2px solid white;
+	
+
+}
+.contactus:hover{
+	border-bottom: 2px solid white;
+}
+.shop a:hover{
+	color:  #339bc2;
+
+}
+.home a:hover{
+	color: #339bc2;
+}
+.project a:hover{
+	color:  #339bc2;
+
+}
+.contactus a:hover{
+	color:  #339bc2;
+}
+.cart a:hover{
+	color:  #339bc2;
+}
+.div{
+	display: inline-flex;
+}
+
+.things{
+	display: inline-flex;
+}
+.price{
+	margin-left: 70px;
+		color:  #339bc2;
+}
+.price2{
+	margin-right: 50px;
+	margin-left: 130px;
+		color:  #339bc2;
+
+}
+.pile{
+	margin-left: 100px;
+		color:  #339bc2;
+}
+.driver{
+	margin-left: 160px;
+		color:  #339bc2;
+}
+.mub{
+	display: inline-flex;
+}
+.cost2{
+	margin-left: 170px;
+	color:  #339bc2;
+}
+.cost3{
+	margin-left: 160px;
+	color:  #339bc2;
+}
+.cost4{
+	margin-left: 130px;
+	color:  #339bc2;
+}
+.cost{
+	margin-left: 70px;
+	color:  #339bc2;
+}
+.foot{
+	background-color: #333333;
+	height: 100px;
+	color: white;
+	font-size: 10px;
+	margin: 0;
+	font-family: 'Agency FB';
+}
+.last{
+	padding: 20px;
+	font-size: 18px;
+	display: inline-flex;
+}
+.copyright{
+	color: white;
+}
+.twitter a{
+	color: white;
+}
+.facebook a{
+	color: white;
+}
+.dude{
+	text-align: right;
+}
+.facebook{
+	margin-right: 20px;
+	font-size: 30px;
+}
+.twitter{
+	font-size: 30px;
+}
+.facebook a:hover{
+	color:  #339bc2;
+}
+.twitter a:hover{
+	color:  #339bc2;
+}
